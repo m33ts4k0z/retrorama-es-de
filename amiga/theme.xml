@@ -1,0 +1,29 @@
+<theme>
+	<include>./../theme.xml</include>
+
+<view name="system">
+ <image name="background">
+  <path>./SLBG.jpg</path>
+  <origin>0 0</origin>
+  <pos>0 0</pos>
+  <size>1 1</size>
+ </image>
+</view>
+
+<view name="gamelist">
+ <image name="logo">
+  <path>./../_art/logo.png</path>
+  <zIndex>1</zIndex>
+ </image>
+</view>
+
+<view name="gamelist">
+ <image name="background">
+  <path>./GMBG.jpg</path>
+  <origin>0 0</origin>
+  <pos>0 0</pos>
+  <size>1 1</size>
+ </image>
+</view>
+
+</theme>
